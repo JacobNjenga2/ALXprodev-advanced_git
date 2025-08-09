@@ -1,2 +1,1 @@
-feature coming soon
-data requirements: email, firstName, lastName, profilePic
+# Signup Page\n\nThis feature implements the signup page with fields: email, first name, last name, and profile picture upload.
