@@ -1,1 +1,1 @@
-Login Feature Coming soon
+# Login Page\n\nThis feature implements the login page UI and basic form validation.
